@@ -1,0 +1,49 @@
+.block{
+    background-color: rgb(58, 255, 3);
+    
+}
+h1{
+    color: white;
+    text-align: center;
+}
+img{
+    width: 200px;
+    position: relative;
+    left: 500px;
+   
+}
+h4{
+    color: white;
+}
+.box{
+    background-color: rgb(216, 214, 214);
+}
+button{
+    background-color: green;
+    color: white;
+}
+iframe{
+    width: 400px;
+    height: 200px;
+    border-radius: 12px;
+}
+h1 {
+  color: #333;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: #fff;
+}
+
+th, td {
+  border: 1px solid #999;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #e0e0e0;
+}
